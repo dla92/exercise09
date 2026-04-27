@@ -17,18 +17,18 @@ This idea is valuable because if video tutorials are effective, students are abl
 <img src="./static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="150" style="border: 2px solid grey;"/>
 
 ### <span style="color:red">Figure 1</span>
-<img src="./static/imgs/Figure1.png" alt="Image of graph showing how helpful students think pre-lecture videos would be." width="500"/>
+<img src="./static/imgs/Figure1.png" alt="Image of graph showing how helpful students think pre-lecture videos would be." width="500" style="border: 2px solid grey;"/>
 
 Many students find that pre lecture videos would be helpful.
 
 ### <span style="color:red">Figure 2</span>
-<img src="./static/imgs/Figure2.png" alt="Image of graph showing relationship between students' perceived class pace and degree of agreement with having pre-lecture videos." width="500"/>
+<img src="./static/imgs/Figure2.png" alt="Image of graph showing relationship between students' perceived class pace and degree of agreement with having pre-lecture videos." width="500" style="border: 2px solid grey;"/>
 
 Students who find the class to have a rapid pace, also responded that they would like to have pre-lecture videos. This relationship implies that students who find the class to be moving quickly, are likely to watch the pre-lecture videos to enhance their understanding.
 
 
 ### <span style="color:red">Figure 3</span>
-<img src="./static/imgs/Figure3.png" alt="Image of graph showing relationship between students' understanding and their perceived effectiveness of lesson videos." width="1300"/>
+<img src="./static/imgs/Figure3.png" alt="Image of graph showing relationship between students' understanding and their perceived effectiveness of lesson videos." width="1300" style="border: 2px solid grey;"/>
 
 Students who found the lesson videos to be more effective generally also had higher levels of understanding as indicated by relatively a greater quantity of responses for understanding with values >= 4.
 
@@ -43,7 +43,7 @@ With this analysis, we recommend that pre-lecture videos that preview material i
 
 ### References
 
-The data for this analysis was sourced from survey data from enrolled COMP110 students.
+The data for this analysis was sourced from survey data from enrolled COMP110 students at UNC Chapel Hill.
 
 [izzi.csv](./survey_izzi.csv)
 
