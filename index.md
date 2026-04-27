@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# Data Analysis for Increased Video Tutorials
+<span style="color:red"># Data Analysis for Increased Video Tutorials</span>
 
 ### Topic:
 
@@ -41,8 +41,12 @@ The first graph shows that a majority of students believe pre-lecture videos wou
 
 With this analysis, we recommend that pre-lecture videos that preview material in lectures, as well as additional tutrials on topics such as coding examples, will help student learning and produce positive learning outcomes. One potential cost of this strategy would be the time commitment required of instructors and/or peer tutors who would be responsible for making and uploading the video tutorials.
 
+
+
 ### References
 
 The data for this analysis was sourced from survey data from enrolled COMP110 students.
+
 [izzi.csv](./survey_izzi.csv)
+
 [alyssa.csv](./survey_alyssa.csv)
