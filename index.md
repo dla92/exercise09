@@ -10,13 +10,16 @@ layout: default
 
 ## Figure 1
 <img src="./static/imgs/Figure1.png" alt="Image of graph showing how helpful students think pre-lecture videos would be." width="500"/>
+
 Many students find that pre lecture videos would be helpful.
 
 ## Figure 2
 <img src="./static/imgs/Figure2.png" alt="Image of graph showing relationship between students' perceived class pace and degree of agreement with having pre-lecture videos." width="500"/>
+
 Students who find the class to have a rapid pace, also responded that they would like to have pre-lecture videos. This relationship implies that students who find the class to be moving quickly, are likely to watch the pre-lecture videos to enhance their understanding.
 
 
 ## Figure 3
 <img src="./static/imgs/Figure3.png" alt="Image of graph showing relationship between students' understanding and their perceived effectiveness of lesson videos." width="1000"/>
+
 Students who found the lesson videos to be more effective generally also had higher levels of understanding as indicated by relatively a greater quantity of responses for understanding with values >= 4.
