@@ -6,10 +6,10 @@ layout: default
 # Data Analysis for Increased Video Tutorials
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="exercise09/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="./static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Figure 1
-<img src="exercise09/static/imgs/Figure1.png" alt="Image of graph showing how helpful students think pre-lecture videos would be." width="500"/>
+<img src="./static/imgs/Figure1.png" alt="Image of graph showing how helpful students think pre-lecture videos would be." width="500"/>
 Many students find that pre lecture videos would be helpful.
 
 ## Figure 2
