@@ -2,7 +2,7 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-<body style="background-color: #4B9CD3;"></body>
+<body style="background-color: #7BAFD4;"></body>
 # Data Analysis for Increased Video Tutorials
 
 ## Topic:
