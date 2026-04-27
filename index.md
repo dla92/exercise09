@@ -3,11 +3,11 @@
 layout: default
 ---
 
-<span style="color:red"># Data Analysis for Increased Video Tutorials</span>
+# Data Analysis for Increased Video Tutorials
 
 ### Topic:
 
-The course should include more video tutorials to help COMP110 students reinforce concepts taught in lecture.
+{content: The course should include more video tutorials to help COMP110 students reinforce concepts taught in lecture.}
 
 ### Idea Value:
 
@@ -16,18 +16,18 @@ This idea is valuable because if video tutorials are effective, students are abl
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="./static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="150"/>
 
-## Figure 1
+## <span style="color:red">Figure 1</span>
 <img src="./static/imgs/Figure1.png" alt="Image of graph showing how helpful students think pre-lecture videos would be." width="500"/>
 
 Many students find that pre lecture videos would be helpful.
 
-## Figure 2
+## <span style="color:red">Figure 2</span>
 <img src="./static/imgs/Figure2.png" alt="Image of graph showing relationship between students' perceived class pace and degree of agreement with having pre-lecture videos." width="500"/>
 
 Students who find the class to have a rapid pace, also responded that they would like to have pre-lecture videos. This relationship implies that students who find the class to be moving quickly, are likely to watch the pre-lecture videos to enhance their understanding.
 
 
-## Figure 3
+## <span style="color:red">Figure 3</span>
 <img src="./static/imgs/Figure3.png" alt="Image of graph showing relationship between students' understanding and their perceived effectiveness of lesson videos." width="1300"/>
 
 Students who found the lesson videos to be more effective generally also had higher levels of understanding as indicated by relatively a greater quantity of responses for understanding with values >= 4.
